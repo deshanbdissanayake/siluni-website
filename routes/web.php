@@ -15,6 +15,7 @@
 
     // Frontend Routes
     Route::get('/', [FrontendController::class, 'home'])->name('home');
+    Route::get('/home', [FrontendController::class, 'home'])->name('home');
     Route::get('/about', [FrontendController::class, 'about'])->name('about');
     Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
     Route::get('/blog/{id}', [BlogController::class, 'show'])->name('blog.show');
