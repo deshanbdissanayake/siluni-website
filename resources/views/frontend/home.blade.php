@@ -347,7 +347,7 @@
                             <h2 class="rs-section-title rs-split-text-enable split-in-fade">Let's Connect!</h2>
                         </div>
                         <div class="rs-contact-list">
-                            {{-- <div class="rs-contact-list-item">
+                            <div class="rs-contact-list-item">
                                 <div class="rs-contact-icon">
                                     <span>
                                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -358,9 +358,9 @@
                                 </div>
                                 <div class="rs-contact-list-content">
                                     <span>Phone</span>
-                                    <h6><a href="tel:+12346691234"> +123-4669-1234 </a></h6>
+                                    <h6><a href="tel:+94777621408 "> +94 777 621408  </a></h6>
                                 </div>
-                            </div> --}}
+                            </div>
                             <div class="rs-contact-list-item">
                                 <div class="rs-contact-icon">
                                     <span>

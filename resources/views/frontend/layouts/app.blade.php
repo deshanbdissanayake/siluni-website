@@ -91,9 +91,9 @@
                     <div class="offcanvas-content">
                         <div class="offcanvas-top d-flex justify-content-between align-items-center mb-25">
                             <div class="offcanvas-logo">
-                                <a href="index-2.html">
+                                {{-- <a href="index-2.html">
                                     <img src="web-assets/images/logo/logo-yellow.png" alt="logo not found">
-                                </a>
+                                </a> --}}
                             </div>
                             <div class="offcanvas-close">
                                 <button class="offcanvas-close-icon animation--flip">
@@ -106,9 +106,8 @@
                             </div>
                         </div>
                         <div class="offcanvas-about mb-30 d-none d-sm-block">
-                            <h4 class="offcanvas-title-meta">About Flixta</h4>
-                            <p>Flixta is a Modern Personal Portfolio Website. Specifically designed for who need personal
-                                Portfolios and small business. </p>
+                            <h4 class="offcanvas-title-meta">About Siluni</h4>
+                            <p>Driven by compassion, powered by curiosity, and guided by purpose. </p>
                         </div>
                         <div class="mobile-menu">
                             <div class="rs-offcanvas-menu mb-25">
@@ -126,8 +125,8 @@
                                         </svg>
                                     </div>
                                     <div class="offcanvas-contact-text">
-                                        <a href="#"> 2096 New Market, New Road <br>
-                                        North Carolina, USA </a>
+                                        <a href="#"> Nawala <br>
+                                        Sri Lanka </a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center gap-15">
@@ -138,7 +137,7 @@
                                         </svg>
                                     </div>
                                     <div class="offcanvas-contact-text">
-                                        <a href="tel:+12346691234"> +123-4669-1234 </a>
+                                        <a href="tel:+94777621408 "> +94 777 621408  </a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center gap-15">
@@ -149,7 +148,7 @@
                                         </svg>
                                     </div>
                                     <div class="offcanvas-contact-text">
-                                        <a href="mailto:hello@flixta.com">hello@flixta.com</a>
+                                        <a href="mailto:siluniwalakulu2009@gmail.com">siluniwalakulu2009@gmail.com</a>
                                     </div>
                                 </li>
                             </ul>
