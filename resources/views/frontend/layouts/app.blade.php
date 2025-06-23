@@ -43,13 +43,15 @@
         <!-- Header area start -->
         <header>
             <div class="rs-header-area header-transparent has-theme-yellow" id="header-sticky">
-                <div class="container">
+                <div class="container p-0">
                     <div class="rs-header-inner">
-                        <div class="rs-header-left">
+                        {{-- <div class="rs-header-left">
                             <div class="rs-header-logo">
-                                <a href="home"><img src="web-assets/images/logo/logo-yellow.png" alt="logo"></a>
+                                <a href="home">
+                                    <img src="web-assets/images/logo/logo-yellow.png" alt="logo">
+                                </a>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="rs-header-menu">
                             <nav id="mobile-menu" class="main-menu">
                                 <ul class="onepage-menu">
@@ -183,10 +185,10 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6">
                         <div class="rs-footer-widget footer-1-col-1">
-                            <div class="rs-footer-widget-logo text-center">
+                            {{-- <div class="rs-footer-widget-logo text-center">
                                 <a class="logo-black" href="index-2.html"><img src="web-assets/images/logo/logo-yellow-black.png" alt="logo"></a>
                                 <a class="logo-white" href="index-2.html"><img src="web-assets/images/logo/logo-yellow.png" alt="logo"></a>
-                            </div>
+                            </div> --}}
                             <div class="rs-footer-widget-content">
                                 <div class="rs-footer-list-wrapper">
                                     <ul class="rs-footer-list">
@@ -208,7 +210,7 @@
                     <div class="row justify-content-center">
                         <div class="col-xl-12">
                             <div class="rs-footer-copyright has-theme-yellow text-center">
-                                <p>© <span id="year"></span> Flixta. Designed by <a href="https://rstheme.com/">RSTheme</a></p>
+                                <p>© <span id="year"></span> DD. Designed by <a href="#">DD</a></p>
                             </div>
                         </div>
                     </div>

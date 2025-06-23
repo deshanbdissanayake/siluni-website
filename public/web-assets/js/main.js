@@ -120,7 +120,7 @@
 		</div>
 	 </div>
 		 </div>`;
-        settings.append(settings_html);
+        //settings.append(settings_html);
     }
     // rtl setting end
 
