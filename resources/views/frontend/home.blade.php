@@ -242,7 +242,7 @@
                                 <div class="rs-blog-wrapper">
                                     <div class="rs-blog-item">
                                         <div class="rs-blog-thumb">
-                                            <a href="#"> <img src="web-assets/images/blog/blog-thumb-01.png" alt="image"></a>
+                                            <a href="#"> <img src="web-assets/images/books/book-thumb-02.png" alt="image"></a>
                                             {{-- <div class="rs-blog-tag">
                                                 <a href="#"> App Development</a>
                                             </div> --}}
@@ -262,7 +262,7 @@
                                 <div class="rs-blog-wrapper">
                                     <div class="rs-blog-item">
                                         <div class="rs-blog-thumb">
-                                            <a href="#"> <img src="web-assets/images/blog/blog-thumb-02.png" alt="image"></a>
+                                            <a href="#"> <img src="web-assets/images/books/book-thumb-01.png" alt="image"></a>
                                             {{-- <div class="rs-blog-tag">
                                                 <a href="#"> Creative Branding</a>
                                             </div> --}}
@@ -322,9 +322,11 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="rs-why-choose-video-wrapper wow fadeInRight" data-wow-delay=".3s" data-wow-duration="1s">
                         <div class="rs-why-choose-video-inner">
-                            <video loop="" muted="" autoplay="" playsinline="">
-                                <source src="web-assets/video/why-choose.mp4" type="video/mp4">
-                            </video>
+                            <a target="_blank" href="web-assets/video/why-choose.mp4">
+                                <video loop="" muted="" autoplay="" playsinline="">
+                                    <source src="web-assets/video/why-choose.mp4" type="video/mp4">
+                                </video>
+                            </a>
                         </div>
                     </div>
                 </div>

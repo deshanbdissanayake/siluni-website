@@ -191,12 +191,12 @@
                             <div class="rs-footer-widget-content">
                                 <div class="rs-footer-list-wrapper">
                                     <ul class="rs-footer-list">
-                                        <li><a href="index-2.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="services.html">Services</a></li>
-                                        <li><a href="portfolio.html">Portfolio</a></li>
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#">About</a></li>
+                                        <li><a href="#">Achievements</a></li>
+                                        <li><a href="#">Books</a></li>
+                                        <li><a href="#">Mission</a></li>
+                                        <li><a href="#">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
