@@ -19,8 +19,10 @@
     Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
     Route::get('/blog/{id}', [BlogController::class, 'show'])->name('blog.show');
     Route::get('/gallery', [GalleryController::class, 'index'])->name('gallery.index');
+
     Route::get('/contact', [ContactController::class, 'index'])->name('contact.index');
-    Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
+    //Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
+    Route::post('/contact', [ContactController::class, 'sendEmail'])->name('contact.send');
 
     // Admin Routes
     Route::prefix('admin')->middleware(['auth'])->group(function () {
